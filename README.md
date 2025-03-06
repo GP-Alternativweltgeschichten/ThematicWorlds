@@ -1,9 +1,11 @@
 # 🌍 Themenwelten – Stadtentwicklung interaktiv erleben  
+Themenwelten ermöglichen eine innovative, interaktive Auseinandersetzung mit der Vergangenheit, Gegenwart und Zukunft der Stadt Olpe. Durch anschauliche Szenarien werden historische Entscheidungen und zukünftige Entwicklungsmöglichkeiten greifbar gemacht. Besucher erhalten vorgefertigte Szenarien, die sie weiterentwickeln und modifizieren können. Durch solche vorgefertigten Themenwelten ist es möglich, dem Besucher großflächige Änderungen in Olpe zu präsentieren, die über das "simple" Prompten mit der KI hinausgehen. Dies erlaubt eine tiefere und strukturierte Auseinandersetzung mit den verschiedenen Szenarien der Stadtentwicklung.
 
-Themenwelten ermöglichen eine innovative, interaktive Auseinandersetzung mit der Vergangenheit, Gegenwart und Zukunft der Stadt Olpe. Durch anschauliche Szenarien werden historische Entscheidungen und zukünftige Entwicklungsmöglichkeiten greifbar gemacht. Besucher erhalten vorgefertigte Szenarien, die sie weiterentwickeln und modifizieren können.
+Bei den Themenwelten wird grundsätzlich zwischen folgenden unterschieden:
+- **Szenarien:** Karten die eine nennenswete geplante oder hypothetische Änderung in Olpe aufweisen 
+- **Historischen Karten:** Karten die Olpe zu einem frührern Geschichtszeitpunkt darstellen und somit einen andere Ausbaustufe der Stadt zeigen *(Bisher nicht umgesetzt)*
 
 ## 🔍 Warum Themenwelten?  
-
 ### 🏙 Anschauliche Erlebbarkeit  
 Stadtentwicklung ist oft ein abstraktes Thema, das schwer greifbar ist. Durch vorgefertigte Themenwelten können Besucher verschiedene Szenarien intuitiv erleben und weiterdenken. Diese Visualisierungen helfen, komplexe Planungsprozesse verständlich zu machen und ermöglichen eine interaktive Auseinandersetzung mit Stadtveränderungen.
 
@@ -20,7 +22,6 @@ Durch die Strukturierung in klar definierte Szenarien können verschiedene Entwi
 Um die Themenwelten nicht nur statisch zu präsentieren, werden auch hier die KI-gestützten Anpassungsmöglichkeiten geboten. Besucher können einzelne Parameter verändern und dadurch ganz eigene Varianten der Stadtentwicklung erstellen. Dies ermöglicht eine noch tiefere Auseinandersetzung mit den Konsequenzen von Stadtplanung.
 
 ## 🏙 Die Auswahl der Themenwelten  
-
 ### 🌊 Themenwelt: Hochwasser  
 **Szenario:** Wie sieht Olpe aus, wenn ein Starkregenereignis eintritt? Diese Themenwelt zeigt eine Simulation des AIS (Auskunfts- und Informationssystem Starkregenvorsorge).
 
@@ -57,8 +58,12 @@ Um die Themenwelten nicht nur statisch zu präsentieren, werden auch hier die KI
 **Designschritte:**
 - Rekonstruktion der geplanten Infrastruktur auf Basis historischer Dokumente
 
----
+***
 
-Durch diese Themenwelten können Besucher die Auswirkungen unterschiedlicher Stadtentwicklungskonzepte unmittelbar erfahren. Die interaktiven Anpassungsmöglichkeiten fördern eine aktive Auseinandersetzung mit Stadtplanung und zeigen, wie sich Städte durch verschiedene Entscheidungen verändern können.  
+Durch diese Themenwelten können Besucher die Auswirkungen unterschiedlicher Stadtentwicklungskonzepte unmittelbar erfahren. Die interaktiven Anpassungsmöglichkeiten fördern eine aktive Auseinandersetzung mit Stadtplanung und zeigen, wie sich Städte durch verschiedene Entscheidungen verändern können. 
+
+## 🔄 Erweiterbarkeit des Themenwelten-Modells
+Die Art und Weise, wie die Themenwelten in den Prototypen eingebunden sind, ermöglicht eine flexible Anpassung und Erweiterung. Das bestehende System erlaubt es, jederzeit neue Szenarien hinzuzufügen, bestehende zu modifizieren oder nicht mehr relevante Themenwelten zu entfernen/ auszublenden. Die zugrundeliegende Datenbank-Infrastruktur bietet dem Museumspersonal die Möglichkeit, das Portfolio der Themenwelten kontinuierlich auszubauen. So kann das System stets auf aktuelle Entwicklungen reagieren und Besucher mit neuen, relevanten Stadtentwicklungsmodellen versorgen.
+ 
 
 
