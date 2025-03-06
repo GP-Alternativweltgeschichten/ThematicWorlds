@@ -27,12 +27,14 @@ Um die Themenwelten nicht nur statisch zu präsentieren, werden auch hier die KI
 
 **Grundlage:**
 - Simulation von 90l/m² Niederschlag innerhalb einer Stunde (SRI 10 – Starkregenindex)
- - SRI 10 entspricht einem Starkregen der ungefähr ein Mal alle 100 Jahre auftreten kann (wenn nicht sogar seltener)  
+  - SRI 10 entspricht einem Starkregen der ungefähr ein Mal alle 100 Jahre auftreten kann (wenn nicht sogar seltener)  
 - Lila eingefärbte Bereiche zeigen Gebiete mit einer Überflutungshöhe von ca. 100 cm
 
 **Designschritte:**
 - Nutzung aktueller Hochwassersimulationen
 - Einfärbung der betroffenen Gebiete zur intuitiven Erfassung
+
+*TODO:* Bilder
 
 ### 🏗 Themenwelt: ISEK (Integriertes städtebauliches Entwicklungskonzept)  
 **Szenario:** Wie könnte sich Olpe durch gezielte Stadtumbauten verändern? Diese Themenwelt basiert auf einem aktuellen Konzept des Landschaftsarchitekturbüros Club L94 aus Köln.
@@ -47,6 +49,8 @@ Um die Themenwelten nicht nur statisch zu präsentieren, werden auch hier die KI
 - Modellierung der geplanten Änderungen auf Basis des ISEK-Konzepts
 - Visualisierung der neuen Stadtstruktur und Integration in bestehende Infrastruktur
 
+*TODO:* Bilder
+
 ### 🚗 Themenwelt: Autogerechte Stadt  
 **Szenario:** Was wäre, wenn der Generalverkehrsplan von 1973 umgesetzt worden wäre? Dieses Konzept sah eine stark autogerechte Stadtentwicklung vor, wurde aber letztlich verworfen.
 
@@ -57,6 +61,8 @@ Um die Themenwelten nicht nur statisch zu präsentieren, werden auch hier die KI
 
 **Designschritte:**
 - Rekonstruktion der geplanten Infrastruktur auf Basis historischer Dokumente
+
+*TODO:* Bilder
 
 ***
 
