@@ -21,7 +21,12 @@ Durch die Strukturierung in klar definierte Szenarien können verschiedene Entwi
 ### 🛠 Interaktive Anpassungen mit KI  
 Um die Themenwelten nicht nur statisch zu präsentieren, werden auch hier die KI-gestützten Anpassungsmöglichkeiten geboten. Besucher können einzelne Parameter verändern und dadurch ganz eigene Varianten der Stadtentwicklung erstellen. Dies ermöglicht eine noch tiefere Auseinandersetzung mit den Konsequenzen von Stadtplanung.
 
-## 🏙 Die Auswahl der Themenwelten  
+## 🏙 Die Auswahl der Themenwelten 
+
+<p float="left">
+  <img src="/Default/Themenwelt_Default.png" width="250"/> 
+</p>
+
 ### 🌊 Themenwelt: Hochwasser  
 **Szenario:** Wie sieht Olpe aus, wenn ein Starkregenereignis eintritt? Diese Themenwelt zeigt eine Simulation des AIS (Auskunfts- und Informationssystem Starkregenvorsorge).
 
@@ -31,7 +36,7 @@ Um die Themenwelten nicht nur statisch zu präsentieren, werden auch hier die KI
 - Lila eingefärbte Bereiche zeigen Gebiete mit einer Überflutungshöhe von ca. 100 cm
 
 **Designschritte:**
-- Nutzung aktueller Hochwassersimulationen
+- Nutzung aktueller Hochwassersimulationen: https://starkregengefahrenkarte-olpe.cismet.de/#/?lat=51.028406317338685&lng=7.851061820983888&zoom=16&selectedSimulation=1&bg=1
 - Einfärbung der betroffenen Gebiete zur intuitiven Erfassung
 
 <p float="left">
@@ -50,10 +55,14 @@ Um die Themenwelten nicht nur statisch zu präsentieren, werden auch hier die KI
   - Stärke Begrünung der entstandenen Leerflächen
 
 **Designschritte:**
-- Modellierung der geplanten Änderungen auf Basis des ISEK-Konzepts
+- Modellierung der geplanten Änderungen auf Basis des ISEK-Konzepts: https://www.clubl94.de/wettbewerbe/stadt-an-den-fluss/
 - Visualisierung der neuen Stadtstruktur und Integration in bestehende Infrastruktur
 
-*TODO:* Bilder
+<p float="left">
+  <img src="/ISEK/Themenwelt_ISEK_V1.png" width="250"/> 
+  <img src="/ISEK/Themenwelt_ISEK_V2.png" width="250"/> 
+  <img src="/ISEK/Themenwelt_ISEK_V3.png" width="250"/> 
+</p>
 
 ### 🚗 Themenwelt: Autogerechte Stadt  
 **Szenario:** Was wäre, wenn der Generalverkehrsplan von 1973 umgesetzt worden wäre? Dieses Konzept sah eine stark autogerechte Stadtentwicklung vor, wurde aber letztlich verworfen.
