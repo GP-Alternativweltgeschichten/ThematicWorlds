@@ -7,8 +7,8 @@ Bei den Themenwelten wird grundsätzlich zwischen folgenden unterschieden:
 
 ## 📖 Inhalt
 - [Warum Themenwelten?](#-warum-themenwelten) 
-- Die Auswahl der Themenwelten
-- Erweiterbarkeit des Themenwelten-Modells
+- [Die Auswahl der Themenwelten](#-die-auswahl-der-themenwelten)
+- [Erweiterbarkeit des Themenwelten-Modells](#-erweitbarkeit-des-themenwelten-modells)
 
 ## 🔍 Warum Themenwelten  
 ### 🏙 Anschauliche Erlebbarkeit  
