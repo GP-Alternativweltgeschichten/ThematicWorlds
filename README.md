@@ -5,11 +5,16 @@ Bei den Themenwelten wird grundsätzlich zwischen folgenden unterschieden:
 - **Szenarien:** Karten die eine nennenswete geplante oder hypothetische Änderung in Olpe aufweisen 
 - **Historischen Karten:** Karten die Olpe zu einem frührern Geschichtszeitpunkt darstellen und somit einen andere Ausbaustufe der Stadt zeigen *(Bisher nicht umgesetzt)*
 
-## 🔍 Warum Themenwelten?  
+## 📖 Inhalt
+- [Warum Themenwelten?](#-warum-themenwelten) 
+- Die Auswahl der Themenwelten
+- Erweiterbarkeit des Themenwelten-Modells
+
+## 🔍 Warum Themenwelten  
 ### 🏙 Anschauliche Erlebbarkeit  
 Stadtentwicklung ist oft ein abstraktes Thema, das schwer greifbar ist. Durch vorgefertigte Themenwelten können Besucher verschiedene Szenarien intuitiv erleben und weiterdenken. Diese Visualisierungen helfen, komplexe Planungsprozesse verständlich zu machen und ermöglichen eine interaktive Auseinandersetzung mit Stadtveränderungen.
 
-### 📖 Narrative Gestaltung  
+### 🗣️ Narrative Gestaltung  
 Städte sind das Produkt historischer Entwicklungen und zukunftsgerichteter Planungen. Themenwelten verbinden die Vergangenheit mit aktuellen und hypothetischen Entwicklungen und machen so Stadtgeschichte sowie Zukunftsvisionen verständlicher. Durch eine narrative Herangehensweise werden die Zusammenhänge klar strukturiert und erlebbar gemacht.
 
 ### ⚖️ Real & Hypothetisch  
