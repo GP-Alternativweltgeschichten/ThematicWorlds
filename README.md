@@ -22,7 +22,7 @@ Durch die Strukturierung in klar definierte Szenarien können verschiedene Entwi
 Um die Themenwelten nicht nur statisch zu präsentieren, werden auch hier die KI-gestützten Anpassungsmöglichkeiten geboten. Besucher können einzelne Parameter verändern und dadurch ganz eigene Varianten der Stadtentwicklung erstellen. Dies ermöglicht eine noch tiefere Auseinandersetzung mit den Konsequenzen von Stadtplanung.
 
 ## 🏙 Die Auswahl der Themenwelten 
-
+Auf Basis des gewählten Ausschnitts von Olpe (der nachfolgend gezeigten Satellitenkarte) wurden die verschiedenen Themenwelten entwickelt, indem gezielt Änderungen vorgenommen wurden, um die jeweiligen Szenarien realistisch darzustellen und deren Auswirkungen auf das Stadtbild von Olpe anschaulich zu visualisieren.
 <p float="left">
   <img src="/Default/Themenwelt_Default.png" width="250"/> 
 </p>
@@ -74,8 +74,16 @@ Um die Themenwelten nicht nur statisch zu präsentieren, werden auch hier die KI
 
 **Designschritte:**
 - Rekonstruktion der geplanten Infrastruktur auf Basis historischer Dokumente
+- Entwurf verschiedener Alternativen zur Verdeutlichung von Straßennetz und Tunnel
 
-*TODO:* Bilder
+<p float="left">
+  <img src="/Autogerechte-Stadt/Themenwelt_AutogerechteStadt_V1.png" width="250"/> 
+  <img src="/Autogerechte-Stadt/Themenwelt_AutogerechteStadt_V2.png" width="250"/> 
+  <img src="/Autogerechte-Stadt/Themenwelt_AutogerechteStadt_V3.png" width="250"/> 
+  <img src="/Autogerechte-Stadt/Themenwelt_AutogerechteStadt_V4.png" width="250"/> 
+  <img src="/Autogerechte-Stadt/Themenwelt_AutogerechteStadt_V5.png" width="250"/> 
+  <img src="/Autogerechte-Stadt/Themenwelt_AutogerechteStadt_V6.png" width="250"/> 
+</p>
 
 ***
 
