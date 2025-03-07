@@ -35,9 +35,9 @@ Um die Themenwelten nicht nur statisch zu präsentieren, werden auch hier die KI
 - Einfärbung der betroffenen Gebiete zur intuitiven Erfassung
 
 <p float="left">
-  <img src="/Hochwasser/Themenwelt_Hochwasser_V1.png" width="300"/> 
-  <img src="/Hochwasser/Themenwelt_Hochwasser_V2.png" width="300"/> 
-  <img src="/Hochwasser/Themenwelt_Hochwasser_V3.png" width="300"/> 
+  <img src="/Hochwasser/Themenwelt_Hochwasser_V1.png" width="250"/> 
+  <img src="/Hochwasser/Themenwelt_Hochwasser_V2.png" width="250"/> 
+  <img src="/Hochwasser/Themenwelt_Hochwasser_V3.png" width="250"/> 
 </p>
 
 ### 🏗 Themenwelt: ISEK (Integriertes städtebauliches Entwicklungskonzept)  
